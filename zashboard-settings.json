@@ -34,7 +34,7 @@
   "config/auto-upgrade": "false",
   "config/display-all-features": "false",
   "config/auto-connection-check": "true",
-  "config/collapse-group-map": "{\"👽 AI1\":true,\"📘 GitHub\":true,\"GLOBAL\":true,\"其他-自动\":true,\"AI1\":true,\"AI2\":true,\"GitHub\":true,\"TikTok\":true,\"Telegram\":true,\"YouTube\":true,\"NetFlix\":true,\"流媒体\":true,\"国外\":true,\"国内\":true,\"所有-自动\":true,\"港台日新韩-自动\":true,\"台日新韩-自动\":true,\"油管免广告-自动\":true,\"香港-自动\":true,\"日本-自动\":true,\"台湾-自动\":true,\"新加坡-自动\":true,\"美国-自动\":true,\"韩国-自动\":true}",
+  "config/collapse-group-map": "{\"AI1\":true,\"GitHub\":true,\"GLOBAL\":true,\"其他-自动\":true,\"AI1\":true,\"AI2\":true,\"GitHub\":true,\"TikTok\":true,\"Telegram\":true,\"YouTube\":true,\"NetFlix\":true,\"流媒体\":true,\"国外\":true,\"国内\":true,\"所有-自动\":true,\"港台日新韩-自动\":true,\"台日新韩-自动\":true,\"油管免广告-自动\":true,\"香港-自动\":true,\"日本-自动\":true,\"台湾-自动\":true,\"新加坡-自动\":true,\"美国-自动\":true,\"韩国-自动\":true}",
   "config/split-overview-page": "false",
   "config/default-theme": "light",
   "config/ipv6-map": "{}",
